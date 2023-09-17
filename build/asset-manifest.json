@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be72a3da.css",
+    "main.js": "/static/js/main.78ea5470.js",
+    "static/js/787.5b0e76d6.chunk.js": "/static/js/787.5b0e76d6.chunk.js",
+    "static/media/Emmanuel_Iheanyichukwu_Ezeagu_academic_cv.pdf": "/static/media/Emmanuel_Iheanyichukwu_Ezeagu_academic_cv.3c44c4ec4e1acad17fb4.pdf",
+    "static/media/IMG-20230910-WA0007.jpg": "/static/media/IMG-20230910-WA0007.292a79eed52d68f3068b.jpg",
+    "static/media/IMG-20230910-WA0011.jpg": "/static/media/IMG-20230910-WA0011.898096aeafd86fcbad28.jpg",
+    "index.html": "/index.html",
+    "main.be72a3da.css.map": "/static/css/main.be72a3da.css.map",
+    "main.78ea5470.js.map": "/static/js/main.78ea5470.js.map",
+    "787.5b0e76d6.chunk.js.map": "/static/js/787.5b0e76d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be72a3da.css",
+    "static/js/main.78ea5470.js"
+  ]
+}
